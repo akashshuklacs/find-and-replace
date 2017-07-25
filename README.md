@@ -1,2 +1,3 @@
 # find-and-replace
-Finds and Replaces text from text files.
+GUI App allows to find and replace text from a text file input from the user.
+Auth-Akash Shukla pX
